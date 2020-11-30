@@ -1,0 +1,7 @@
+C:\Users\ph4yt3\c stuff\c# proj\testing\testing\bin\Debug\testing.exe.config
+C:\Users\ph4yt3\c stuff\c# proj\testing\testing\bin\Debug\testing.exe
+C:\Users\ph4yt3\c stuff\c# proj\testing\testing\bin\Debug\testing.pdb
+C:\Users\ph4yt3\c stuff\c# proj\testing\testing\obj\Debug\testing.csprojAssemblyReference.cache
+C:\Users\ph4yt3\c stuff\c# proj\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\ph4yt3\c stuff\c# proj\testing\testing\obj\Debug\testing.exe
+C:\Users\ph4yt3\c stuff\c# proj\testing\testing\obj\Debug\testing.pdb
